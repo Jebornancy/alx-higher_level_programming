@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
-power = lambda a, b: 
-return a ** b
+def power(a, b):
+    return a ** b
